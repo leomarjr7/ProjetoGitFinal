@@ -30,3 +30,7 @@ Merge
 Tags
 
 Releases
+
+## Versão atual
+
+Projeto atualizado após a primeira publicação.
